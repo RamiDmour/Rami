@@ -1,0 +1,49 @@
+.App {
+  text-align: center;  
+}
+p{
+	font-family: italic;
+}
+
+.App-header {
+  background-color: #222;
+  height: 300px;
+  background-image: url(sky.jpg);
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+ 	margin-top: 48px
+}
+
+.App-intro {
+	margin-top: 16px;
+  font-size: large;
+}
+.SearchInputContainer{
+  width: 100%;
+  margin-top: 32px;
+  align-content: center;
+}
+.SearchInputCity{
+	width: 50%;
+	text-align: center;
+}
+.SearchInput{
+	width: 25%;
+	margin: 0;
+	text-align:center;
+	
+}
+.SearchInputButton{
+	width: 20%;
+	height: 40px;
+	margin-top: 8px;
+	
+}
+.left{
+	text-align: left;
+	position: absolute;;
+}
+
